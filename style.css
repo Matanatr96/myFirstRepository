@@ -1,8 +1,28 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	color: white;
+	text-decoration: 
+}
+
+.wrapper {
+	border: 1px solid black;
+	padding: 10px;
+	width: 400 px;
+	margin: 0 auto;
+}
 .box {
-<<<<<<< HEAD
 	border: 1px solid red;
 }
-=======
-  border: 1px solid red;
+
+#main-nav {
+	width: 400px;
+	margin: 0 auto;
 }
->>>>>>> 9254a3c6b4e782d6684a73708be329637c4e7e6d
+
+#nav {
+
+}
