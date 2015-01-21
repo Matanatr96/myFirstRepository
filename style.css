@@ -4,8 +4,13 @@
 }
 
 header {
-	color: white;
+	color: blue;
 	text-decoration: 
+}
+
+body {
+	font-family: sans-serif;
+	background: linear-gradient(#EFEFEF, #DFDFDF);
 }
 
 .wrapper {
@@ -23,6 +28,7 @@ header {
 	margin: 0 auto;
 }
 
-#nav {
+#nav li a:hover{
+
 
 }
